@@ -1,4 +1,4 @@
-# My First year C Programs
+# My 3rd Semester DSA Programs
 
 ## Table of contents
 
