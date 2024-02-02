@@ -17,6 +17,13 @@
         - [3. deletion from specified position](./1.singly%20link%20list.c/deletion/3.%20deletion%20from%20specified%20position.c)
 
 
+- Doubly link list
+    
+    - Insertion
+
+        - [1. Implementation of link list](./2.Doubly%20link%20list/Insertion/1.%20Implementation%20of%20link%20list.c)
+
+
 
 
 
