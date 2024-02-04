@@ -24,7 +24,8 @@
         - [1. Implementation of link list](./2.Doubly%20link%20list/Insertion/1.%20Implementation%20of%20link%20list.c)
         - [2. Insertion at beg.c](./2.Doubly%20link%20list/Insertion/2.%20Insertion%20at%20beg.c)
         - [3. Insertion at end.c](./2.Doubly%20link%20list/Insertion/3.%20Insertion%20at%20end.c)
-        
+        - [4. insert at specific pos.c](./2.Doubly%20link%20list/Insertion/4.%20insert%20at%20specific%20pos.c)
+        - [5. insertion after poss.c](./2.Doubly%20link%20list/Insertion/5.%20insertion%20after%20poss.c)
 
 
 
