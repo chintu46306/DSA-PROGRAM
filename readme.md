@@ -22,6 +22,7 @@
     - Insertion
 
         - [1. Implementation of link list](./2.Doubly%20link%20list/Insertion/1.%20Implementation%20of%20link%20list.c)
+        - [2. Insertion at beg.c](./2.Doubly%20link%20list/Insertion/2.%20Insertion%20at%20beg.c)
 
 
 
