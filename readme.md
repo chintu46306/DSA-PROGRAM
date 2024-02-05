@@ -31,7 +31,7 @@
 - Stack
 
     - [1. implementation of stack using Array.c](./4.%20STACK/1.%20implementation%20of%20stack%20using%20Array.c)
-    - [2. Implementation of stack using link list.c](./4.%20STACK/2.%20Implementation%20of%20stack%20using%20link%20list.c)
+    - [2. Implementation of stack using link list.c](./4.%20STACK/2.%20Implementation%20of%20stack%20using%20link%20list.c )
 
 
 
