@@ -34,6 +34,11 @@
     - [2. Implementation of stack using link list.c](./4.%20STACK/2.%20Implementation%20of%20stack%20using%20link%20list.c )
 
 
+- Queue
+
+    - [1. Implementation of Queue using Arrays.c](./5.%20Queue/1.%20Implementation%20of%20Queue%20using%20Arrays.c)
+
+
 
 
 
