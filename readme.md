@@ -37,6 +37,7 @@
 - Queue
 
     - [1. Implementation of Queue using Arrays.c](./5.%20Queue/1.%20Implementation%20of%20Queue%20using%20Arrays.c)
+    - [2. Implementation of Queue using Link list.c](./5.%20Queue/2.%20Implementation%20of%20Queue%20using%20Link%20list.c)
 
 
 
