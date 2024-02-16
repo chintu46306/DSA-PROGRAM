@@ -40,6 +40,7 @@
     - [2. Implementation of Queue using Link list.c](./5.%20Queue/2.%20Implementation%20of%20Queue%20using%20Link%20list.c)
     - [3. Implementation of circular Queue using array.c](./5.%20Queue/3.%20Implementation%20of%20circular%20Queue%20using%20array.c)
     - [4. Implementation of circular Queue using lonk list.c](./5.%20Queue/4.%20Implementation%20of%20circular%20Queue%20using%20lonk%20list.c)
+    - [5. Implementation of Queue using stack.c](./5.%20Queue/5.%20Implementation%20of%20Queue%20using%20stack.c)
 
 
 
