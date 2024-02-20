@@ -50,6 +50,7 @@
     - [2. Binary search.c](./6.%20SEARCHING%20AND%20SHORTING/2.%20Binary%20search.c)
     - [3. Bubble sort.c](./6.%20SEARCHING%20AND%20SHORTING/3.%20Bubble%20sort.c)
     - [4. Insertion sort.c](./6.%20SEARCHING%20AND%20SHORTING/4.%20Insertion%20sort.c)
+    - [5. Selection sort.c](./6.%20SEARCHING%20AND%20SHORTING/5.%20Selection%20sort.c)
 
 
 
