@@ -52,6 +52,7 @@
     - [4. Insertion sort.c](./6.%20SEARCHING%20AND%20SHORTING/4.%20Insertion%20sort.c)
     - [5. Selection sort.c](./6.%20SEARCHING%20AND%20SHORTING/5.%20Selection%20sort.c)
     - [6. Quick sort.c](./6.%20SEARCHING%20AND%20SHORTING/6.%20Quick%20sort.c)
+    - [7. Merge sort.c](./6.%20SEARCHING%20AND%20SHORTING/7.%20Merge%20sort.c)
 
 
 
