@@ -64,6 +64,7 @@
 - TREE
 
     - [1. Binary tree implementation.c](./8.%20TREE/1.%20Binary%20tree%20implementation.c)
+    - [2. Binary tree traversals.c](./8.%20TREE/2.%20Binary%20tree%20traversals.c)
 
 
 
